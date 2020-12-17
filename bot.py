@@ -158,4 +158,4 @@ async def change_status():
 
 
 
-client.run('Nzg4NzkyNjM5NjIwMjUxNjU4.X9oqZA.ENWoiDvgF-ou46k-v5UlZ5Cjh48')
+client.run('Enter your bot token here')
